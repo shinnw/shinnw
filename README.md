@@ -1,8 +1,6 @@
-## Hi! I'm still a beginner — you can call me Shin. 
+![Shina Shuraina](img/banner_v2.svg)
 
 <!--
-**shinnw/shinnw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
