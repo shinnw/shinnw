@@ -1,5 +1,6 @@
-![Shina Shuraina](img/banner_v2.svg)
+![Shina Shuraina](img/bannershina2.svg)
 
+<img src="{https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black}" />
 <!--
 Here are some ideas to get you started:
 
