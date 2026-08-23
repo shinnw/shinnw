@@ -9,6 +9,21 @@
 
 #### Connect With me
 <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> <img src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+
+
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/shinnw/shinnw/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shinnw/shinnw/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shinnw/shinnw/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shinnw/shinnw/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
 <!--
 Here are some ideas to get you started:
 
