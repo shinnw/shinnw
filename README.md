@@ -1,7 +1,5 @@
 ![Shina Shuraina](img/bannershina2.svg)
 
-- 🌱 I’m currently learning python
-
 #### Skill Me
 [![My Skills](https://skillicons.dev/icons?i=js,py,html,css,linux,nodejs,postgres,vscode,mysql,kali&perline=)](https://skillicons.dev)
 
@@ -10,11 +8,7 @@
 #### Connect With me
 <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> <img src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 
-<!-- SNAKE -->
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/shinnw/shinnw/snake-output/snake.svg" alt="Snake animation" />
-
-###
+<!-- arcade -->
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shinnw/shinnw/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
@@ -23,7 +17,6 @@
 </picture>
 
 ###
-
 <!--
 Here are some ideas to get you started:
 
