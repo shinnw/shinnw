@@ -1,4 +1,4 @@
-![Shina Shuraina](img/bannershina2.svg)
+![Shina Shuraina](img/banner_bunga.svg)
 
 ### About Me
 > **_I'm self-studying software development and cybersecurity._** My current learning focus includes Python and Linux, with a particular interest in CTF (Capture The Flag). Open to collaboration and discussion on coding and security topics.
